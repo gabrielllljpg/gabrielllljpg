@@ -1,6 +1,6 @@
 # Gabriel
 
-**`Estudante de Sistemas de Informação com foco em Banco de Dados`**
+**`Estudante em Banco de Dados`**
 
 ### Linguagens e Tecnologias
 
