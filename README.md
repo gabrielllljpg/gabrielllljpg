@@ -1,9 +1,10 @@
 # Gabriel
 
-**`Estudante de Banco de Dados`**
+
 
 ### Linguagens e Tecnologias
 
+<p aling="center">
 <img 
     align="left" 
     alt="HTML"
@@ -12,6 +13,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
+    </p>
 <img 
     align="left" 
     alt="CSS" 
