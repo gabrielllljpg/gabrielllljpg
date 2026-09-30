@@ -1,6 +1,6 @@
 # Gabriel
 
-**`Estudante em Banco de Dados`**
+**`Estudante de Banco de Dados`**
 
 ### Linguagens e Tecnologias
 
